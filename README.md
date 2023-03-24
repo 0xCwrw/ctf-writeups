@@ -1,2 +1,2 @@
-# THM-write-ups
-This is my repo containing my writeups for various THM rooms/boxes.
+# ctf-write-ups
+This is my repo containing my writeups for various CTF events/rooms/boxes.

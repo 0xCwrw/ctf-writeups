@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "6e3eaf12a489c1ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1fd4a07daf12886",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "718c73d0aadbc2e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "HTB-Cyber-Apocalypse-2023/Initialise-connection.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a563104d4f500bf8",
+    "type": "split",
+    "children": [
+      {
+        "id": "963a3aad677a4618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c86d091e8536073f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a816dcc7e4fc239d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0800d1838047e1a5",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "411ed026074bc538",
+    "type": "split",
+    "children": [
+      {
+        "id": "a05fdbd64ae13dfb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0c24816876a0bf25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "HTB-Cyber-Apocalypse-2023/Initialise-connection.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "795e247777d7260e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "HTB-Cyber-Apocalypse-2023/Initialise-connection.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c51d6f757b5c701e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "16f753b2e43fac72",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "HTB-Cyber-Apocalypse-2023/Initialise-connection.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "718c73d0aadbc2e9",
+  "lastOpenFiles": [
+    "HTB-Cyber-Apocalypse-2023/Welcome!.md",
+    "HTB-Cyber-Apocalypse-2023/Initialise-connection.md",
+    "images/welcome-overview.png.md",
+    "images",
+    "HTB-Cyber-Apocalypse-2023/images/initialiseConnection-overview.png",
+    "HTB-Cyber-Apocalypse-2023/images/initialiseConnection-docker.png",
+    "HTB-Cyber-Apocalypse-2023/images",
+    "HTB-Cyber-Apocalypse-2023/images/welcome-overview.png",
+    "HTB-Cyber-Apocalypse-2023/images/welcome-flag.png",
+    "Relevant - Penetration testing challenge/writeup.md",
+    "README.md",
+    "Templates/general.md",
+    "Templates/note.md",
+    "Templates",
+    "HTB-Cyber-Apocalypse-2023"
+  ]
+}
