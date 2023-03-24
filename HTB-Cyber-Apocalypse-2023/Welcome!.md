@@ -7,7 +7,7 @@ ___
 
 ### Overview
 
-![[images/welcome-overview.png]]
+![Overview of challenge](images/welcome-overview.png)
 
 ### Solution:
 
@@ -15,4 +15,4 @@ ___
 2. Navigating to the announcements channel shows this message below along with the flag.
 	1. N.B. I will display this flag as it is publicly available, I will obfuscate the remainder of the flags.
 
-![[images/welcome-flag.png]]
+![Solution](images/welcome-flag.png)
