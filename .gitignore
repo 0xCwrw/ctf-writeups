@@ -1,3 +1,5 @@
 # Shite obsitian config files
 
+.obsidian/
 .obsidian/*
+*obsidian*
